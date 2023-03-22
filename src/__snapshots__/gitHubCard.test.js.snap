@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="holder.js/100px180"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        mig-gonz
+      </div>
+      <img
+        alt="photo of mig-gonz"
+        className=""
+        src="https://www.freecodecamp.org/news/content/images/2021/03/cheerful-positive-coder.jpg"
+        style={
+          Object {
+            "height": "200px",
+            "width": "200px",
+          }
+        }
+      />
+      <p
+        className="card-text"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed pulvinar proin gravida hendrerit. Sed euismod nisi porta lorem mollis aliquam ut. Donec massa sapien faucibus et molestie ac feugiat. Mauris in aliquam sem fringilla ut morbi tincidunt augue.
+      </p>
+    </div>
+  </div>
+</div>
+`;
